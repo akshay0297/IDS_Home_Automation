@@ -21,10 +21,10 @@
 
 #define BUTTON  5
  
-String apiKey = "L26OMHQ2MIWJKW9C"; 
+String apiKey = "Write API Key"; 
 
-const char *ssid =  "akshay.jain";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "asdfghjklpoiu";
+const char *ssid =  "wifi_ssid";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "wifi_password";
 const char* server = "api.thingspeak.com";
 
 WiFiClient client;
