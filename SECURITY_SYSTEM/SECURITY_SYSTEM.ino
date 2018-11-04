@@ -21,7 +21,7 @@
 
 #define BUTTON  5
  
-String apiKey = "Write API Key"; 
+String apiKey = "ThingSpeak Channel WRITE API Key"; 
 
 const char *ssid =  "wifi_ssid";     // replace with your wifi ssid and wpa2 key
 const char *pass =  "wifi_password";
